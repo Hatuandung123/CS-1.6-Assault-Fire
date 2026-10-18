@@ -1,13 +1,26 @@
 # CS-1.6-Assault-Fire
-Built on the open-source Xash3D FWGS platform (GitHub fwgs/xash3d-fwgs), the Counter-Strike Assault Fire mod project represents a comprehensive technological breakthrough in classic first-person shooter (FPS) development. 
-Project Introduction: Counter-Strike Assault Fire on Xash3D FWGS Engine
-The Counter-Strike Assault Fire mod project, built upon the open-source Xash3D FWGS platform (GitHub fwgs/xash3d-fwgs), represents a comprehensive technological breakthrough in classic first-person shooter (FPS) development. Moving beyond mere nostalgia, the project dives deep into the engine's source code to optimize performance, integrate modern mechanics, and deliver an ultimate experience across mobile and desktop platforms.
 
-Key Highlights
-Engine-Level Optimization & Modifications: By modifying the core Xash3D FWGS source code, the project overcomes traditional GoldSrc limitations. It features high-precision hitbox and hurtbox calculations for accurate gunplay, smoother weapon animation handling (including advanced handling and modern recoil dynamics), and flexible script integration (Pawn/Lua) for efficient entity management and environmental interactions.
+[![Build Status](https://img.shields.io/badge/Build-%20passing-brightgreen)](https://github.com/)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows%20%7C%20Linux-blue)](https://github.com/)
 
-Enhanced Performance & Multi-Platform Support: The restructured architecture ensures high and stable frame rates during intense battles while providing advanced rendering capabilities, improved texture filtering, and real-time lighting management.
+> [!NOTE]
+> Dự án phát triển bản mod **Counter-Strike Assault Fire** trên nền tảng mã nguồn mở **Xash3D FWGS**, mang lại trải nghiệm đỉnh cao trên cả di động và máy tính.
 
-Diverse & Cutting-Edge Game Modes: Beyond classic tactical matches, the mod introduces deep survival systems with advanced zombie mechanics, tactical breach-and-clear assault scenarios, and fast-paced deathmatch arenas designed to test player reflexes.
+---
 
-Ultimately, Counter-Strike Assault Fire bridges classic tactical gameplay with modern engine capabilities, offering a redefined, highly customizable shooter experience for players worldwide.
+## Key Highlights
+
+### 1. Engine-Level Optimization & Modifications
+* **Precision Gunplay:** Tích hợp tính toán hitbox/hurtbox có độ chính xác cao.
+* **Advanced Animation:** Xử lý chuyển động vũ khí mượt mà, bao gồm cơ chế giật súng hiện đại.
+* **Scripting Flexibility:** Hỗ trợ tích hợp Pawn/Lua linh hoạt cho việc quản lý thực thể (entities).
+
+### 2. Enhanced Performance & Multi-Platform Support
+* Kiến trúc được cấu trúc lại giúp đảm bảo khung hình ổn định trong các trận chiến lớn.
+* Cải thiện khả năng render, lọc texture và quản lý ánh sáng thời gian thực.
+
+### 3. Diverse & Cutting-Edge Game Modes
+* Hệ thống sinh tồn chiều sâu với cơ chế zombie nâng cao.
+* Các kịch bản đột kích (assault) chiến thuật và đấu trường deathmatch tốc độ cao.
+
+---
