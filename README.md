@@ -1,10 +1,10 @@
-# CS-1.6-Assault-Fire
+# CS: AME
 
 [![Build Status](https://img.shields.io/badge/Build-%20passing-brightgreen)](https://github.com/)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows%20%7C%20Linux-blue)](https://github.com/)
 
 > [!NOTE]
-> The **Counter-Strike Assault Fire** mod project, built upon the open-source [Xash3D FWGS](https://github.com/fwgs/xash3d-fwgs) platform, delivers an ultimate gaming experience across mobile and desktop devices.
+> The **Counter-Strike: Assault Modern Edition** mod project, built upon the open-source [Xash3D FWGS](https://github.com/fwgs/xash3d-fwgs) platform, delivers an ultimate gaming experience across mobile and desktop devices.
 
 ---
 
